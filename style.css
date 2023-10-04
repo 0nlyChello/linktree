@@ -52,6 +52,7 @@ body * {
 }
 #profile img {
   width: 112px;
+  height: 112px;
   flex-shrink: 0;
   border-radius: 112px;
   border: 2px solid var(--bg-img);
